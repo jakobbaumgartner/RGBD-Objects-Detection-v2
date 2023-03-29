@@ -1,0 +1,184 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{Rosin_Lai_Shao_Liu_2019}
+{\em RGB-D Image Analysis and Processing}.
+\newblock Advances in Computer Vision and Pattern Recognition. Springer
+  International Publishing, Cham, 2019.
+
+\bibitem{ClearGrasp-git}
+Cleargrasp.
+\newblock \url{https://github.com/Shreeyak/cleargrasp}, 2021.
+
+\bibitem{UOIS-git}
+Unseen object instance segmentation for robotic environments.
+\newblock \url{https://github.com/chrisdxie/uois}, 2021.
+
+\bibitem{Bolya_Zhou_Xiao_Lee_2019}
+Daniel Bolya, Chong Zhou, Fanyi Xiao, and Yong~Jae Lee.
+\newblock Yolact: Real-time instance segmentation.
+\newblock (arXiv:1904.02689), Oct 2019.
+\newblock arXiv:1904.02689 [cs].
+
+\bibitem{Bostanci_Kanwal_Clark_2015}
+Gazi~Erkan Bostanci, Nadia Kanwal, and Adrian Clark.
+\newblock Augmented reality applications for cultural heritage using kinect.
+\newblock {\em Human-centric Computing and Information Sciences}, 5:1–18, Jul
+  2015.
+
+\bibitem{Chang_Funkhouser_Guibas_Hanrahan_Huang_Li_Savarese_Savva_Song_Su_et}
+Angel Chang, Thomas Funkhouser, Leonidas Guibas, Pat Hanrahan, Qixing Huang,
+  Zimo Li, Silvio Savarese, Manolis Savva, Shuran Song, Hao Su, Jianxiong Xiao,
+  Li Yi, and Fisher Yu.
+\newblock Shapenet: An information-rich 3d model repository.
+\newblock Dec 2015.
+
+\bibitem{7913730}
+Liang-Chieh Chen, George Papandreou, Iasonas Kokkinos, Kevin Murphy, and
+  Alan~L. Yuille.
+\newblock Deeplab: Semantic image segmentation with deep convolutional nets,
+  atrous convolution, and fully connected crfs.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  40(4):834--848, 2018.
+
+\bibitem{Chen_Zhu_Papandreou_Schroff_Adam_2018}
+Liang-Chieh Chen, Yukun Zhu, George Papandreou, Florian Schroff, and Hartwig
+  Adam.
+\newblock Encoder-decoder with atrous separable convolution for semantic image
+  segmentation.
+\newblock (arXiv:1802.02611), Aug 2018.
+\newblock arXiv:1802.02611 [cs].
+
+\bibitem{Danielczuk_Matl_Gupta_Li_Lee_Mahler_Goldberg_2019}
+Michael Danielczuk, Matthew Matl, Saurabh Gupta, Andrew Li, Andrew Lee, Jeffrey
+  Mahler, and Ken Goldberg.
+\newblock Segmenting unknown 3d objects from real depth images using mask r-cnn
+  trained on synthetic data.
+\newblock (arXiv:1809.05825), Mar 2019.
+\newblock 19 citations (Semantic Scholar/arXiv) [2023-01-30] arXiv:1809.05825
+  [cs].
+
+\bibitem{He_Gkioxari_Dollar_Girshick_2018}
+Kaiming He, Georgia Gkioxari, Piotr Dollár, and Ross Girshick.
+\newblock Mask r-cnn.
+\newblock (arXiv:1703.06870), Jan 2018.
+\newblock arXiv:1703.06870 [cs].
+
+\bibitem{He_Zhang_Ren_Sun_2015}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock (arXiv:1512.03385), Dec 2015.
+\newblock arXiv:1512.03385 [cs].
+
+\bibitem{Jiang_Zhao_Shi_Liu_Fu_Jia_2020}
+Li Jiang, Hengshuang Zhao, Shaoshuai Shi, Shu Liu, Chi-Wing Fu, and Jiaya Jia.
+\newblock Pointgroup: Dual-set point grouping for 3d instance segmentation.
+\newblock (arXiv:2004.01658), Apr 2020.
+\newblock 158 citations (Semantic Scholar/arXiv) [2023-01-28] arXiv:2004.01658
+  [cs].
+
+\bibitem{Kirillov_Girshick_He_Dollar_2019}
+Alexander Kirillov, Ross Girshick, Kaiming He, and Piotr Dollar.
+\newblock Panoptic feature pyramid networks.
+\newblock In {\em 2019 IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, page 6392–6401, Long Beach, CA, USA, Jun 2019. IEEE.
+
+\bibitem{Kirillov_Wu_He_Girshick_2020}
+Alexander Kirillov, Yuxin Wu, Kaiming He, and Ross Girshick.
+\newblock Pointrend: Image segmentation as rendering.
+\newblock In {\em 2020 IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, page 9796–9805, Seattle, WA, USA, Jun 2020. IEEE.
+
+\bibitem{Lu_Chen_Ruozzi_Xiang_2022}
+Yangxiao Lu, Yuqiao Chen, Nicholas Ruozzi, and Yu Xiang.
+\newblock Mean shift mask transformer for unseen object instance segmentation.
+\newblock (arXiv:2211.11679), Nov 2022.
+\newblock 0 citations (Semantic Scholar/arXiv) [2023-01-31] arXiv:2211.11679
+  [cs] version: 1.
+
+\bibitem{Paszke_Gross_Massa_Lerer_Bradbury_Chanan_Killeen_Lin_Gimelshein_Antiga_et}
+Adam Paszke, Sam Gross, Francisco Massa, Adam Lerer, James Bradbury, Gregory
+  Chanan, Trevor Killeen, Zeming Lin, Natalia Gimelshein, Luca Antiga, Alban
+  Desmaison, Andreas Köpf, Edward Yang, Zach DeVito, Martin Raison, Alykhan
+  Tejani, Sasank Chilamkurthy, Benoit Steiner, Lu Fang, Junjie Bai, and Soumith
+  Chintala.
+\newblock Pytorch: An imperative style, high-performance deep learning library.
+\newblock (arXiv:1912.01703), Dec 2019.
+\newblock arXiv:1912.01703 [cs, stat].
+
+\bibitem{u-net}
+Olaf Ronneberger, Philipp Fischer, and Thomas Brox.
+\newblock U-net: Convolutional networks for biomedical image segmentation,
+  2015.
+
+\bibitem{Sajjan_Moore_Pan_Nagaraja_Lee_Zeng_Song_2019}
+Shreeyak~S. Sajjan, Matthew Moore, Mike Pan, Ganesh Nagaraja, Johnny Lee, Andy
+  Zeng, and Shuran Song.
+\newblock Cleargrasp: 3d shape estimation of transparent objects for
+  manipulation.
+\newblock (arXiv:1910.02550), Oct 2019.
+\newblock 100 citations (Semantic Scholar/arXiv) [2023-01-28] arXiv:1910.02550
+  [cs, eess] version: 2.
+
+\bibitem{Song_Yu_Zeng_Chang_Savva_Funkhouser_2016}
+Shuran Song, Fisher Yu, Andy Zeng, Angel~X. Chang, Manolis Savva, and Thomas
+  Funkhouser.
+\newblock Semantic scene completion from a single depth image.
+\newblock (arXiv:1611.08974), Nov 2016.
+\newblock arXiv:1611.08974 [cs].
+
+\bibitem{Tychola_Tsimperidis_Papakostas_2022}
+Kyriaki~A. Tychola, Ioannis Tsimperidis, and George~A. Papakostas.
+\newblock On 3d reconstruction using rgb-d cameras.
+\newblock {\em Digital}, 2(33):401–421, Sep 2022.
+
+\bibitem{Wang_Kong_Shen_Jiang_Li_2020}
+Xinlong Wang, Tao Kong, Chunhua Shen, Yuning Jiang, and Lei Li.
+\newblock Solo: Segmenting objects by locations.
+\newblock (arXiv:1912.04488), Jul 2020.
+\newblock arXiv:1912.04488 [cs].
+
+\bibitem{Xiang_Xie_Mousavian_Fox_2021}
+Yu Xiang, Christopher Xie, Arsalan Mousavian, and Dieter Fox.
+\newblock Learning rgb-d feature embeddings for unseen object instance
+  segmentation.
+\newblock (arXiv:2007.15157), Mar 2021.
+\newblock 47 citations (Semantic Scholar/arXiv) [2023-01-28] arXiv:2007.15157
+  [cs].
+
+\bibitem{Xie_Xiang_Mousavian_Fox_2020}
+Christopher Xie, Yu Xiang, Arsalan Mousavian, and Dieter Fox.
+\newblock The best of both modes: Separately leveraging rgb and depth for
+  unseen object instance segmentation.
+\newblock (arXiv:1907.13236), Jul 2020.
+\newblock 58 citations (Semantic Scholar/arXiv) [2023-01-30] arXiv:1907.13236
+  [cs].
+
+\bibitem{Xie_Xiang_Mousavian_Fox_2021}
+Christopher Xie, Yu Xiang, Arsalan Mousavian, and Dieter Fox.
+\newblock Unseen object instance segmentation for robotic environments.
+\newblock (arXiv:2007.08073), Oct 2021.
+\newblock 48 citations (Semantic Scholar/arXiv) [2023-01-28] arXiv:2007.08073
+  [cs].
+
+\bibitem{Xie_Sun_Song_Wang_Liang_Shen_Luo_2020}
+Enze Xie, Peize Sun, Xiaoge Song, Wenhai Wang, Ding Liang, Chunhua Shen, and
+  Ping Luo.
+\newblock Polarmask: Single shot instance segmentation with polar
+  representation.
+\newblock (arXiv:1909.13226), Feb 2020.
+
+\bibitem{47764}
+Andy Zeng, Shuran Song, Stefan Welker, Johnny Lee, Alberto Rodriguez, and
+  Thomas Funkhouser.
+\newblock Learning synergies between pushing and grasping with self-supervised
+  deep reinforcement learning.
+\newblock In {\em IEEE International Conference on Intelligent Robots and
+  Systems (IROS)}, 2018.
+
+\bibitem{Zhang_Funkhouser_2018}
+Yinda Zhang and Thomas Funkhouser.
+\newblock Deep depth completion of a single rgb-d image.
+\newblock In {\em 2018 IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition}, page 175–185, Jun 2018.
+
+\end{thebibliography}

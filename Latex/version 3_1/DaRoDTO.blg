@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: DaRoDTO.aux
+The style file: ieee_fullname.bst
+Database file #1: egbib.bib
+Repeated entry---line 119 of file egbib.bib
+ :  @article{Chang_Funkhouser_Guibas_Hanrahan_Huang_Li_Savarese_Savva_Song_Su_et
+ :                                                                               al._2015, title={ShapeNet: An Information-Rich 3D Model Repository}, url={http://arxiv.org/abs/1512.03012}, abstractNote={We present ShapeNet: a richly-annotated, large-scale repository of shapes represented by 3D CAD models of objects. ShapeNet contains 3D models from a multitude of semantic categories and organizes them under the WordNet taxonomy. It is a collection of datasets providing many semantic annotations for each 3D model such as consistent rigid alignments, parts and bilateral symmetry planes, physical sizes, keywords, as well as other planned annotations. Annotations are made available through a public web-based interface to enable data visualization of object attributes, promote data-driven geometric analysis, and provide a large-scale quantitative benchmark for research in computer graphics and vision. At the time of this technical report, ShapeNet has indexed more than 3,000,000 models, 220,000 models out of which are classified into 3,135 categories (WordNet synsets). In this report we describe the ShapeNet effort as a whole, provide details for all currently available datasets, and summarize future plans.}, note={arXiv:1512.03012 [cs]}, number={arXiv:1512.03012}, publisher={arXiv}, author={Chang, Angel X. and Funkhouser, Thomas and Guibas, Leonidas and Hanrahan, Pat and Huang, Qixing and Li, Zimo and Savarese, Silvio and Savva, Manolis and Song, Shuran and Su, Hao and Xiao, Jianxiong and Yi, Li and Yu, Fisher}, year={2015}, month={Dec} }
+I'm skipping whatever remains of this entry
+Warning--to sort, need author, editor, or key in Rosin_Lai_Shao_Liu_2019
+Warning--to sort, need author or key in UOIS-git
+Warning--to sort, need author or key in ClearGrasp-git
+Warning--empty author and editor in Rosin_Lai_Shao_Liu_2019
+Warning--empty journal in Bolya_Zhou_Xiao_Lee_2019
+Warning--there's a number but no volume in Bolya_Zhou_Xiao_Lee_2019
+Warning--empty journal in Chang_Funkhouser_Guibas_Hanrahan_Huang_Li_Savarese_Savva_Song_Su_et
+Warning--empty journal in Chen_Zhu_Papandreou_Schroff_Adam_2018
+Warning--there's a number but no volume in Chen_Zhu_Papandreou_Schroff_Adam_2018
+Warning--empty journal in Danielczuk_Matl_Gupta_Li_Lee_Mahler_Goldberg_2019
+Warning--there's a number but no volume in Danielczuk_Matl_Gupta_Li_Lee_Mahler_Goldberg_2019
+Warning--empty journal in He_Gkioxari_Dollar_Girshick_2018
+Warning--there's a number but no volume in He_Gkioxari_Dollar_Girshick_2018
+Warning--empty journal in He_Zhang_Ren_Sun_2015
+Warning--there's a number but no volume in He_Zhang_Ren_Sun_2015
+Warning--empty journal in Jiang_Zhao_Shi_Liu_Fu_Jia_2020
+Warning--there's a number but no volume in Jiang_Zhao_Shi_Liu_Fu_Jia_2020
+Warning--empty journal in Lu_Chen_Ruozzi_Xiang_2022
+Warning--there's a number but no volume in Lu_Chen_Ruozzi_Xiang_2022
+Warning--empty journal in Paszke_Gross_Massa_Lerer_Bradbury_Chanan_Killeen_Lin_Gimelshein_Antiga_et
+Warning--there's a number but no volume in Paszke_Gross_Massa_Lerer_Bradbury_Chanan_Killeen_Lin_Gimelshein_Antiga_et
+Warning--empty journal in Sajjan_Moore_Pan_Nagaraja_Lee_Zeng_Song_2019
+Warning--there's a number but no volume in Sajjan_Moore_Pan_Nagaraja_Lee_Zeng_Song_2019
+Warning--empty journal in Song_Yu_Zeng_Chang_Savva_Funkhouser_2016
+Warning--there's a number but no volume in Song_Yu_Zeng_Chang_Savva_Funkhouser_2016
+Warning--empty journal in Wang_Kong_Shen_Jiang_Li_2020
+Warning--there's a number but no volume in Wang_Kong_Shen_Jiang_Li_2020
+Warning--empty journal in Xiang_Xie_Mousavian_Fox_2021
+Warning--there's a number but no volume in Xiang_Xie_Mousavian_Fox_2021
+Warning--empty journal in Xie_Xiang_Mousavian_Fox_2020
+Warning--there's a number but no volume in Xie_Xiang_Mousavian_Fox_2020
+Warning--empty journal in Xie_Xiang_Mousavian_Fox_2021
+Warning--there's a number but no volume in Xie_Xiang_Mousavian_Fox_2021
+Warning--empty journal in Xie_Sun_Song_Wang_Liang_Shen_Luo_2020
+Warning--there's a number but no volume in Xie_Sun_Song_Wang_Liang_Shen_Luo_2020
+You've used 27 entries,
+            2120 wiz_defined-function locations,
+            673 strings with 10836 characters,
+and the built_in function-call counts, 10391 in all, are:
+= -- 936
+> -- 750
+< -- 3
++ -- 298
+- -- 270
+* -- 856
+:= -- 1771
+add.period$ -- 94
+call.type$ -- 27
+change.case$ -- 215
+chr.to.int$ -- 0
+cite$ -- 62
+duplicate$ -- 348
+empty$ -- 603
+format.name$ -- 270
+if$ -- 2073
+int.to.chr$ -- 0
+int.to.str$ -- 27
+missing$ -- 24
+newline$ -- 148
+num.names$ -- 48
+pop$ -- 243
+preamble$ -- 1
+purify$ -- 189
+quote$ -- 0
+skip$ -- 263
+stack$ -- 0
+substring$ -- 264
+swap$ -- 78
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 106
+warning$ -- 35
+while$ -- 54
+width$ -- 29
+write$ -- 303
+(There was 1 error message)

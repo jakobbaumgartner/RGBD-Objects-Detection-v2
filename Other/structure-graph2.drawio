@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2023-03-28T02:37:50.774Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="N3b5INzBb1DBN6bs3Fc6" version="21.1.1" type="device">
+  <diagram name="Page-1" id="Fsrqti0c62FYRIlN_xPA">
+    <mxGraphModel dx="1274" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-25" value="Depth" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="ALHKhIvA4_-dogMlfTKZ-1" target="ALHKhIvA4_-dogMlfTKZ-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="380.03" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="410" />
+              <mxPoint x="180" y="410" />
+              <mxPoint x="180" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ALHKhIvA4_-dogMlfTKZ-1" target="ALHKhIvA4_-dogMlfTKZ-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="430" />
+              <mxPoint x="210" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-1" value="RGB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="40" y="390" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.708;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ALHKhIvA4_-dogMlfTKZ-2" target="ALHKhIvA4_-dogMlfTKZ-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-2" value="Depth" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
+          <mxGeometry x="40" y="480" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ALHKhIvA4_-dogMlfTKZ-4" target="ALHKhIvA4_-dogMlfTKZ-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="430.0588235294117" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="460" />
+              <mxPoint x="560" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-4" value="UOIS - Net - 3D" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="310" y="425" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="ALHKhIvA4_-dogMlfTKZ-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="405" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="750" y="405" />
+              <mxPoint x="750" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-22" value="RGB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-23" value="RGB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-29" value="Masks" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-35" value="List of classified segmented objects" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="810" y="410" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="ALHKhIvA4_-dogMlfTKZ-4" target="ALHKhIvA4_-dogMlfTKZ-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="490" as="sourcePoint" />
+            <mxPoint x="830" y="590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="510" />
+              <mxPoint x="720" y="530" />
+              <mxPoint x="780" y="500" />
+              <mxPoint x="780" y="510" />
+              <mxPoint x="750" y="550" />
+              <mxPoint x="570" y="530" />
+              <mxPoint x="740" y="550" />
+              <mxPoint x="780" y="490" />
+              <mxPoint x="770" y="510" />
+              <mxPoint x="730" y="540" />
+              <mxPoint x="500" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-40" value="Segmented Objects" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="495" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ALHKhIvA4_-dogMlfTKZ-42" value="CNN Classifier" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="580" y="360" width="140" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
